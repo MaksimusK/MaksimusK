@@ -5,7 +5,7 @@
 
 ### About me
 - :gem:I'm learning back-end in **java**
-- :gem:Wrote desktop applications in **c# (WPF)**
+- :gem:I studied c# at university, so I can write a calculator and create an MVVM application**c# (WPF)**
 - :gem:English language level: **A2**
 - :gem:I'm currently learning
 
