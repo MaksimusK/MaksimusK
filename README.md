@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <h1>Welcome to my domain</h1>
-<h3>Student from Russia</h3>
+<h3>Hi! My name is Maxim and I am a student from Russia</h3>
 </div>
 
 ### About me
