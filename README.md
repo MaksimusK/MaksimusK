@@ -7,7 +7,7 @@
 - :gem:I'm learning back-end in **java**
 - :gem:I studied c# at university, so I can write a calculator and create an MVVM application**c# (WPF)**
 - :gem:English language level: **A2**
-- :gem:I'm currently learning
+- :gem:I continue to learn java
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="java" width="50" height="40"/>&nbsp;
