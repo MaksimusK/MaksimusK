@@ -5,7 +5,7 @@
 
 ### About me
 - :gem: I'm learning back-end in **java**
-- :gem: I studied c# at university, so I can write a calculator and create an MVVM application**c# (WPF)**
+- :gem: I studied c# at university, so I can write a calculator and create an MVVM application**(WPF)**
 - :gem: English language level: **A2**
 - :gem: Actively solving leetcode
 - :gem: I continue to learn java
