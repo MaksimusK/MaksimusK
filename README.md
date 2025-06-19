@@ -4,11 +4,11 @@
 </div>
 
 ### About me
-- :gem: I'm learning back-end in **java**
-- :gem: I studied c# at university, so I can write a calculator and create an MVVM application**(WPF)**
-- :gem: English language level: **A2**
-- :gem: Actively solving leetcode
-- :gem: I continue to learn java
+  :gem: I'm learning back-end in **java**<br>
+  :gem: I studied c# at university, so I can write a calculator and create an MVVM application**(WPF)**<br>
+  :gem: English language level: **A2**<br>
+  :gem: Actively solving leetcode<br>
+  :gem: I continue to learn java<br>
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="java" width="50" height="40"/>&nbsp;
