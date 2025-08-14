@@ -16,5 +16,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="postgreSQL" width="50" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="c#" width="50" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" title="Net" width="50" height="40"/>&nbsp;
-### My stat
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=user&theme=default)
+
