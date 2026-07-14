@@ -8,7 +8,10 @@
   :gem: I create interesting projects with ML<br>
   :gem: Make some coffee and welcome to my projects and life☕<br>
 
-### Languages and tools
+<p align="center">
+  <samp>Languages and tools</samp>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch" width="80" height="80" style="vertical-align:middle; margin:10px; background-color: white; border-radius: 10px; padding: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="80" height="80" style="vertical-align:middle; margin:10px; background-color: white; border-radius: 10px; padding: 10px;"/>
