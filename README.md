@@ -17,7 +17,6 @@
 
 <br/>
 
-<!-- Иконки (без подписей) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" width="70" height="70" style="margin: 10px; background: white; border-radius: 12px; padding: 12px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" width="70" height="70" style="margin: 10px; background: white; border-radius: 12px; padding: 12px;"/>
@@ -29,33 +28,8 @@
 
 <br/>
 
-<!-- Статистика в стиле терминала -->
-<div align="left" style="margin-left: 40px;">
-  <h3 style="color: #58a6ff; font-weight: 300;">// stats</h3>
-  
-  <table style="border: none; border-collapse: collapse; width: 100%; max-width: 500px;">
-    <tr>
-      <td style="border: none; padding: 6px 0;">
-        <span style="color: #58a6ff;">></span> <span style="color: #ff7b72;">projects</span> <span style="color: #79c0ff;">12</span>
-      </td>
-      <td style="border: none; padding: 6px 0;">
-        <span style="color: #58a6ff;">></span> <span style="color: #ff7b72;">stars</span> <span style="color: #79c0ff;">48</span>
-      </td>
-    </tr>
-    <tr>
-      <td style="border: none; padding: 6px 0;">
-        <span style="color: #58a6ff;">></span> <span style="color: #ff7b72;">contributions</span> <span style="color: #79c0ff;">1.2k</span>
-      </td>
-      <td style="border: none; padding: 6px 0;">
-        <span style="color: #58a6ff;">></span> <span style="color: #ff7b72;">commits</span> <span style="color: #79c0ff;">256</span>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <br/>
 
-<!-- График активности -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaksimusK&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff" width="100%"/>
 </div>
