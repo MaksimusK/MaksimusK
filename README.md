@@ -17,7 +17,6 @@
 
 <br/>
 
-<!-- Иконки с подписями в карточках -->
 <p align="center">
   <table align="center" style="border-collapse: collapse; border: none;">
     <tr>
@@ -47,5 +46,5 @@
   — — — — — — — — — — — — — — — — — — — —
 </p>
 <p align="center" style="font-size: 12px; color: #484f58;">
-  ✦ built with ☕ and 🖤 ✦
+  ✦ built with ☕ ✦
 </p>
