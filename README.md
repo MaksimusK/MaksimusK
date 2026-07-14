@@ -4,16 +4,13 @@
 </div>
 
 ### About me
-  :gem: I'm learning back-end in **java**<br>
-  :gem: I studied c# at university, so I can write a calculator and create an MVVM application**(WPF)**<br>
-  :gem: English language level: **A2**<br>
-  :gem: Actively solving leetcode<br>
-  :gem: I continue to learn java<br>
+  :gem: I'm learning ML <br>
+  :gem: I create interesting projects with ML<br>
+  :gem: Make some coffee and welcome to my projects and life☕<br>
 
 ### Languages and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="java" width="50" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" width="50" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="java" width="50" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" title="Spring" width="50" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="postgreSQL" width="50" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="c#" width="50" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" title="Net" width="50" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytotch/pytorch-original.svg" title="c#" width="50" height="40"/>&nbsp;
 
