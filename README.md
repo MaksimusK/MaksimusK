@@ -57,7 +57,7 @@
 
 <!-- График активности -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaksimusK&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff" width="100%"/>
 </div>
 
 <br/>
